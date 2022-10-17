@@ -1,0 +1,34 @@
+{
+  "JERSEYS":[
+    {
+      "id": 1,
+      "name": "Adelaide United Home Kit",
+      "color": "Red",
+      "price": 12800,
+      "imgName": "p8.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Adelaide United Away Kit",
+      "color": "Navy",
+      "price": 12800,
+      "imgName": "p5.jpg"
+    }
+  ],
+  "TEAMWEAR":[
+    {
+      "id": 3,
+      "name": "Football Suit 1",
+      "color": "Royal/White",
+      "price": 7800,
+      "imgName": "p14.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Football Suit 2",
+      "color": "Yellow/Black",
+      "price": 7800,
+      "imgName": "p12.jpg"
+    }
+  ]
+}
